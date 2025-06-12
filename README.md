@@ -5,9 +5,6 @@
 
 A simple and elegant Flutter application that demonstrates payment interface UI and functionality. Built with 💙 Flutter, this project showcases modern mobile design with a clean and intuitive payment screen layout.
 
-![Flutter](https://img.shields.io/badge/Flutter-Framework-blue.svg)
-![Dart](https://img.shields.io/badge/Dart-Language-lightblue.svg)
-
 ## ✨ Features
 
 - Beautiful and responsive payment screen UI
