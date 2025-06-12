@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 💳 Payment Flutter App
 
 A simple and elegant Flutter application that demonstrates payment interface UI and functionality. Built with 💙 Flutter, this project showcases modern mobile design with a clean and intuitive payment screen layout.
@@ -52,9 +52,11 @@ flutter run
 
 ```
 lib/
-├── main.dart          # App entry point
-├── screens/           # Contains UI screen files
-└── widgets/           # Reusable UI components
+├── main.dart          
+├── screens/           
+├── data/              
+├── models/            
+└── widgets/           
 ```
 
 ## 🙋‍♂️ Author
@@ -68,6 +70,5 @@ If you liked the project, please consider giving it a ⭐️ on [GitHub](https:/
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-```
 
----
+
