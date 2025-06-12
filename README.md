@@ -15,7 +15,6 @@ A simple and elegant Flutter application that demonstrates payment interface UI 
 ## 📱 Screenshots
 
 > Add screenshots here to showcase the UI  
-> Example (replace with your own):
 > ![Screenshot](screenshots/payment_screen.jpg)
 
 ## 🚀 Getting Started
@@ -40,6 +39,7 @@ flutter pub get
 ```bash
 flutter run
 ```
+# Also you can download apk file from releases
 
 > 💡 Make sure you have Flutter installed. Check the official [Flutter documentation](https://docs.flutter.dev/get-started/install) if you're new to Flutter.
 
